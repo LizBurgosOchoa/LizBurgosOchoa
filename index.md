@@ -5,4 +5,4 @@ feature_text: |
   ## Lizbeth Burgos Ochoa
 ---
 
-There isn't much going on here yet, but watch this space
+I am a PhD candidate at the Department of Obstetrics and Gynecology at Erasmus MC. In 2018 I obtained my master’s degree in Methods and Statistics for the Behavioral, Biomedical, and Social Sciences at Utrecht University. My PhD project 'Health inequality in early life' aims to study the link between socioeconomic status and health at birth with a particular focus on the neighbourhood environment. The project is part of the Health Equity action line from the Erasmus Initiative Smarter Choices for Better Health. My research interests includes health inequalities, neighbourhood effects, and causal inference with observational data.
